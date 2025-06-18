@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# 🫀 Heart Disease Prediction using Machine Learning
 
 A predictive analysis project developed in **Jupyter Notebook** to determine the likelihood of heart disease in patients based on medical attributes. This project uses **machine learning algorithms** to train on historical health data and predict disease presence with high accuracy.
 
